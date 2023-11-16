@@ -8,3 +8,9 @@ Accelerated data science using RAPIDS package provided by Nvidia
 
 ## Course Name : [Fundamentals of Accelerated Data Science with Rapids](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-data-science/)
 
+<br/>
+
+### [Certificate Of Completion](https://courses.nvidia.com/certificates/751a01ad7828481a9e6af3d007d67533/)
+
+<hr/>
+
