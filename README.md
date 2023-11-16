@@ -5,6 +5,6 @@ This repository involve accelerated data science using RAPIDS package provided b
 <hr/>
 
 <br/>
-## Course : [Fundamentals of Accelerated Data Science with Rapids)
+## Course : [Fundamentals of Accelerated Data Science with Rapids]
 
 <br/>
